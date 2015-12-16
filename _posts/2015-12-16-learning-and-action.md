@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'An exploration of different kinds of reading, with a focus on trying to put learning into action.'
-datePublished: '2015-12-16T12:44:45.675Z'
-dateModified: '2015-12-16T12:40:06.287Z'
+datePublished: '2015-12-16T12:55:53.436Z'
+dateModified: '2015-12-16T12:55:47.216Z'
 title: Learning and Action
 author: []
+sourcePath: _posts/2015-12-16-learning-and-action.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-16-learning-and-action.md
-published: true
 url: learning-and-action/index.html
 _type: Article
 
@@ -25,6 +25,7 @@ _type: Article
 # 
 
 # Learning and Action
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6cf5d2f4-6cf0-4eff-b957-ef45684689b8.jpg)
 
 Being a reader comes naturally to some of us, and I'm glad to count myself in that number. Over the years, however, the ways I read have changed, and the purposes for reading with them. Recently I've run into a number of readers who illustrate the ways in which I read (or used to read).
 
