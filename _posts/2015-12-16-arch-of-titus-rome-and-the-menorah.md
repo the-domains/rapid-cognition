@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: A look at a course from Yeshiva University
-datePublished: '2015-12-16T12:19:51.185Z'
-dateModified: '2015-12-16T12:17:12.876Z'
+datePublished: '2015-12-16T12:20:10.218Z'
+dateModified: '2015-12-16T12:19:51.185Z'
 title: 'Arch of Titus: Rome and the Menorah'
 author: []
 authors: []
