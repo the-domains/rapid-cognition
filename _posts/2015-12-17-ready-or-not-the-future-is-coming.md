@@ -6,23 +6,23 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-17T12:59:02.037Z'
-dateModified: '2015-12-17T12:58:46.738Z'
+datePublished: '2015-12-28T20:27:14.298Z'
+dateModified: '2015-12-28T20:22:30.355Z'
 title: "Ready or not the future is coming!\_"
 author: []
+sourcePath: _posts/2015-12-17-ready-or-not-the-future-is-coming.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-17-ready-or-not-the-future-is-coming.md
-published: true
 url: ready-or-not-the-future-is-coming/index.html
 _type: Article
 
 ---
-# Ready or not the future is coming! ![Thinking about the future](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ce1e3274-7ce0-458e-8230-496e266cb551.jpg)
+# Ready or not the future is coming! ![Thinking about the future](https://s3-us-west-2.amazonaws.com/the-grid-img/p/dc98ef1258ef803bcffbe7b37d12fd46f95a484d.jpg)
 
 No matter what your personal views on the future, it will, in some respects be worse than expected and in others it will be better than expected.
 Looking just at wealth and health for a moment, predictions heard this year included: 
