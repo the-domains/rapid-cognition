@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: A look at a course from Yeshiva University
-datePublished: '2015-12-16T12:44:00.255Z'
-dateModified: '2015-12-16T12:43:08.743Z'
+datePublished: '2015-12-28T20:27:43.498Z'
+dateModified: '2015-12-28T20:23:14.626Z'
 title: 'Arch of Titus: Rome and the Menorah'
 author: []
 sourcePath: _posts/2015-12-16-arch-of-titus-rome-and-the-menorah.md
@@ -23,7 +23,7 @@ _type: Article
 
 ---
 # Arch of Titus: Rome and the Menorah
-![Students asking questions during "office hours" ](https://the-grid-user-content.s3-us-west-2.amazonaws.com/221ac20c-12ef-4050-9b37-d976966c8850.png)
+![Students asking questions during "office hours" ](https://s3-us-west-2.amazonaws.com/the-grid-img/p/0e1a03efcb0dd164fbb48eea7bb3d2101deb0430.png)
 
 This course on [Coursera.org][0] is new for Yeshiva University and explores Roman, and by extension Western, history and thought using the lens of the arch. It then weaves in the Jewish perspective on the events, people and the arch.
 
